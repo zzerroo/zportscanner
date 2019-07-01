@@ -17,7 +17,7 @@ The usage like this:
 
 ```
 ./main -i 127.0.0.1 -pr 8000 //single ip,single port
-./main -i 127.0.0.1 -pr 8000-8881 //single ip,multi
+./main -i 127.0.0.1 -pr 8000-8881 //single ip,multi port
 ./main -i ip.file -pr 8000 //multi port,single port
 ./main -i ip.file -pr 8000-8881 //multi port,multi port
 ```
